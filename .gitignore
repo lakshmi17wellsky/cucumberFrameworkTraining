@@ -1,0 +1,7 @@
+/target/
+.project
+.settings/org.eclipse.jdt.core.prefs
+src/test/java/features/Hooks.feature
+.settings/org.eclipse.m2e.core.prefs
+.classpath
+.cucumber/cucumber.stepDefinitions.tmp
